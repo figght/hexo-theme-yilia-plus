@@ -1,8 +1,8 @@
 ﻿# Header-菜单
 menu:
   主页: /
-  技术笔记: https://figght.github.io/
   随笔: /tags/随笔/
+  DSP: /tags/DSP/
 
 # subNav-子导航
 subNav:
